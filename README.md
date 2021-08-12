@@ -1,6 +1,8 @@
 ### Hi there,I'm Asif Tandel 👋
 - I am currently working on Machine Learning,Deep Learning Use-Cases.
+
 - Build an end-to-end data science pipelines from data-validation to model deployment in an fully automated approach that has helped in reducing 20-40% tasks.
+
 - I am currently learning Computer Vision 
 
 Project:-
@@ -8,6 +10,7 @@ Project:-
 1)Wafer Fault Detection-The inputs of various sensors for different wafers have been provided. In electronics, a wafer (also called a slice or substrate) is a thin slice of semiconductor used for the fabrication of integrated circuits. The goal is to build a machine learning model which predicts whether a wafer needs to be replaced or not(i.e., whether it is working or not) based on the inputs from various sensors. There are two classes: +1 and -1. 
 
 •	+1 means that the wafer is in a working condition and it doesn’t need to be replaced.
+
 •	-1 means that the wafer is faulty and it needs to be replaced. 
 
 Project Link:-https://waferfaultdetect.herokuapp.com/
