@@ -21,5 +21,12 @@ Project Link:-https://cementstrengthpred.herokuapp.com/
 ![PostmanCement](https://user-images.githubusercontent.com/61505882/129244975-23376c9d-cafe-4f6c-9c52-e289a0609b74.gif)
 
 
+Important Repository to Look Out For :-
+
+1)Wafer Fault Detection
+
+2)CementStrengthPred
+
+
 
 
