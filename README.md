@@ -14,6 +14,12 @@ Project Link:-https://waferfaultdetect.herokuapp.com/
 
 ![AnimationScreen](https://user-images.githubusercontent.com/61505882/129244504-62d17250-c15f-45b0-a429-2ef61acd49d7.gif)
 
+2)Cement Strength Prediction:-To build a regression model to predict the concrete compressive strength based on the different features in the training data. 
+
+Project Link:-https://cementstrengthpred.herokuapp.com/
+
+![PostmanCement](https://user-images.githubusercontent.com/61505882/129244975-23376c9d-cafe-4f6c-9c52-e289a0609b74.gif)
+
 
 
 
