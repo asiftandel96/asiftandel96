@@ -34,9 +34,9 @@ Project Demo:-
 
 Important Repository:-:ballot_box_with_check:
 
-1)WaferFaultDetectionProject :link:
+☑️WaferFaultDetectionProject ::
 
-2)CementStrengthPred  :link:
+☑️CementStrengthPred  ::
 
 
 
