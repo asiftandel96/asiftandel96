@@ -4,6 +4,8 @@
 
 - I am addicted to learning and growing every day
 
+- I am currently learning Computer Vision,Image Classification,Object Detection etc.
+
 - Build an end-to-end data science pipelines from data-validation to model deployment in an fully automated approach that has helped in reducing 20-40% tasks.
 
 
@@ -29,6 +31,18 @@ Project Link:-https://cementstrengthpred.herokuapp.com/
 Project Demo:-
 
 ![PostmanCement](https://user-images.githubusercontent.com/61505882/129244975-23376c9d-cafe-4f6c-9c52-e289a0609b74.gif)
+
+Important Repository to Look Out for:-
+
+1)WaferFaultDetectionProject
+
+2)CementStrengthPred
+
+
+
+Thank you for visiting the Profile:blush:
+
+
 
 
 
