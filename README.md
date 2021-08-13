@@ -34,13 +34,14 @@ Project Demo:-
 
 Important Repository:-:ballot_box_with_check:
 
-☑️WaferFaultDetectionProject ::
+☑️WaferFaultDetectionProject 
 
-☑️CementStrengthPred  ::
-
+☑️CementStrengthPred  
 
 
 Thank you for visiting the Profile:blush:
+
+
 
 
 
