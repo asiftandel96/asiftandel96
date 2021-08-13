@@ -1,9 +1,12 @@
 ### Hi there,I'm Asif Tandel 👋
-- I am currently working on Machine Learning,Deep Learning Use-Cases.
+
+- :blush:I am currently working on Machine Learning,Deep Learning Use-Cases
+
+- I am addicted to learning and growing every day
 
 - Build an end-to-end data science pipelines from data-validation to model deployment in an fully automated approach that has helped in reducing 20-40% tasks.
 
-- I am currently learning Computer Vision 
+
 
 Project:-
 
@@ -15,20 +18,20 @@ Project:-
 
 Project Link:-https://waferfaultdetect.herokuapp.com/
 
+Project Demo:-
+
 ![AnimationScreen](https://user-images.githubusercontent.com/61505882/129244504-62d17250-c15f-45b0-a429-2ef61acd49d7.gif)
 
 2)Cement Strength Prediction:-To build a regression model to predict the concrete compressive strength based on the different features in the training data. 
 
 Project Link:-https://cementstrengthpred.herokuapp.com/
 
+Project Demo:-
+
 ![PostmanCement](https://user-images.githubusercontent.com/61505882/129244975-23376c9d-cafe-4f6c-9c52-e289a0609b74.gif)
 
 
-Important Repository to Look Out For :-
 
-1)Wafer Fault Detection
-
-2)CementStrengthPred
 
 
 
