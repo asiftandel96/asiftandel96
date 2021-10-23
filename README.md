@@ -1,12 +1,12 @@
 ### Hi there,I'm Asif Tandel 👋
 
-- :blush:I am currently working on Machine Learning,Deep Learning Use-Cases
+- I am currently working on Machine Learning,Deep Learning Use-Cases
 
 - I am addicted to learning and growing every day
 
 - I am currently learning Computer Vision,Image Classification,Object Detection etc.
 
-- Build an end-to-end data science pipelines from data-validation to model deployment in an fully automated approach that has helped in reducing 20-40% tasks.
+- Build an end-to-end data science pipelines from data-validation to model deployment in an fully automated approach that has helped in reducing 40% tasks of the project.
 
 
 
